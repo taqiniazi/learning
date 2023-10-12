@@ -1,6 +1,6 @@
 function Hello() {
     return (
-     <h1>Hello There </h1>   
+     <h1>Hello Te </h1>   
     )
 }
 export default Hello;
