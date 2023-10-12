@@ -1,9 +1,13 @@
 import './App.css';
-import Hello from './components/Hello';
+// import Hello from './components/Hello';
+// import Message from './components/Message' 
+import Jsx from './components/Jsx' 
 function App() {
   return (
     <div className="App">
-        <Hello />
+        {/* <Hello /> */}
+        {/* <Message /> */}
+        <Jsx />
     </div>
   );
 }
